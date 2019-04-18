@@ -1,0 +1,18 @@
+header{
+	background-color: #c5f418;
+	height: 145px;
+}
+.logo img{
+	width: 217px;
+	height: 145px;
+	float: left;
+}
+.button{
+	width: 331px;
+	height: 77px;
+	float: right;
+	background-image: url(../images/button1.jpg);
+	color: #3e9436;
+	margin: 18px 10px 10px;
+	box-shadow: inset 0px 0px 13px 8px rgba(255,255,255,0.85);
+}

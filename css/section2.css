@@ -1,0 +1,29 @@
+.section2{
+	height: 895px;
+	background-color: #d4eef4;
+	padding-bottom: 50px;
+	padding-top: 45px;
+}
+.section2 .left h2{
+	text-align: left;
+}
+.section2 .left{
+	width: 581px;
+}
+.section2 .right{
+	width: 323px;
+	margin-right: 16px;
+}
+.section2 h2 span{
+	display: block;
+	margin-bottom: 35px;
+}
+#s2_img{
+	width: 396px;
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 45px;
+}
+#s2_img img{
+	width: 396px;
+}

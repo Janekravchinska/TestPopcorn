@@ -1,0 +1,18 @@
+
+.section4{
+	height: 924px;
+	background: url(../images/s4_bg.jpg);
+}
+.section4{
+	padding: 20px;
+}
+.section4 .row{
+	position: relative;
+	height: 453px;
+}
+
+.section4 figure{
+	margin-left: 250px;
+	padding: 14px;
+	position: absolute;
+}

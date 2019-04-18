@@ -1,0 +1,28 @@
+.section3{
+	height: 1105px;
+	padding-top: 20px;
+}
+.section3 .blu{
+	margin: 25px 0 25px 0;
+}
+.section3 h2{
+	/*font-size: 24px;*/
+	padding-bottom: 40px;
+}
+
+.section3 #col1{
+	width: 265px;
+	margin-left: 40px;
+}
+.section3 #col2{
+	width: 265px;
+	margin-right: 29px;
+	margin-left: 29px;
+}
+.section3 #col3{
+	width: 265px;
+	margin-right: 40px;
+}
+.section3 .row2 .right{
+	width: 534px;
+}
