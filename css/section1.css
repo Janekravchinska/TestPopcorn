@@ -3,3 +3,9 @@
 	background: url(../images/s1_bg.png) no-repeat right top,
 	#FFFFFF;
 }
+.under_form{
+	height: 200px;
+	text-align: center;
+	padding-top: 30px;
+	background: url(../images/mark.png) no-repeat center;
+}
