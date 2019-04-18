@@ -32,6 +32,16 @@ p{
 a{
 	text-decoration: none;
 }
+.area{
+	width: 335px;
+	height: 65px;
+	background-color: #fff;
+	margin: 10px 7px;
+}
+.input_area{
+	padding: 1px 0 180px;
+
+}
 
 
 .wraper{
